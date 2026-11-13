@@ -1,0 +1,4 @@
+# The catalogue holds each template file's SHA-256, so text files must keep \n line endings
+# on every machine.
+* text=auto eol=lf
+*.jar binary

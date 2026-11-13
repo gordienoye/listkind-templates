@@ -1,0 +1,56 @@
+{
+  "listkind": 1,
+  "templates": [
+    {
+      "id": "listkind/checklist",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "files": [
+            {
+              "language": "en",
+              "path": "templates/listkind/checklist/1.0.0.en.md",
+              "sha256": "b1e62ed25364776ef352b48d041365deac7fe15bf77174bb8d14e66ff1cdf462",
+              "title": "Checklist",
+              "summary": "A checklist, all at once."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "listkind/recipe",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "files": [
+            {
+              "language": "en",
+              "path": "templates/listkind/recipe/1.0.0.en.md",
+              "sha256": "b70a632af8b6b2b624e1e0ad94341c5fe35bd2876e38f445a8f75e7633f33c1d",
+              "title": "Recipe",
+              "summary": "A recipe: tools, ingredients and steps."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "listkind/routine",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "files": [
+            {
+              "language": "en",
+              "path": "templates/listkind/routine/1.0.0.en.md",
+              "sha256": "245a952029ba3fdeff47fc9b21e80737116aaf67ed136cd3b17d7e4856325c06",
+              "title": "Routine",
+              "summary": "Steps, shown one at a time."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
